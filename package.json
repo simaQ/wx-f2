@@ -1,9 +1,9 @@
 {
   "name": "@antv/wx-f2",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "F2 for webchart miniprogram",
   "browser": "build/wx-f2.js",
-  "main": "build/wx-f2.js",
+  "main": "dist/wx-f2.js",
   "module": "lib/index.js",
   "repository": {
     "type": "",
