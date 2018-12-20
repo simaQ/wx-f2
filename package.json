@@ -6,11 +6,11 @@
   "main": "dist/wx-f2.min.js",
   "module": "lib/index.js",
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/simaQ/wx-f2.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/simaQ/wx-f2/issues"
   },
   "keywords": [
     "antv",
